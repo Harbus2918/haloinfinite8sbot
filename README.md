@@ -23,6 +23,9 @@ My code is robust, with functionalities like ensuring no map repetition in recen
 📜 **Terms of Service:**
 Before using the bot, please ensure you're familiar with our [Terms of Service](https://harbus2918.github.io/haloinfinite8sbot/tos).
 
+🔒 **Privacy Policy:**
+Before using the bot, please ensure you're familiar with our [Privacy Policy](https://harbus2918.github.io/haloinfinite8sbot/privacy-policy).
+
 Thank you for choosing the Halo Infinite 8s Series Bot. Enjoy your games and may the best Spartans win!
 
 For any questions, feedback, or support, please reach out on Discord (idefend) or raise an issue on this repository.
