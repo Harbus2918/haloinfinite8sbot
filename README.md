@@ -20,7 +20,7 @@ I'm inspired by the vast universe of Halo Infinite, designed to offer players cu
 🛠️ **Technical Details:** 
 My code is robust, with functionalities like ensuring no map repetition in recent matches, generating embeds for an organized display, and periodically logging commands for insights.
 
-📜 **Terms of Service**
+📜 **Terms of Service:**
 Before using the bot, please ensure you're familiar with our [Terms of Service](https://haloinfinite8sbot.github.io/tos.html).
 
 Thank you for choosing the Halo Infinite 8s Series Bot. Enjoy your games and may the best Spartans win!
