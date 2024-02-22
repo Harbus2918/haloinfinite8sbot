@@ -28,4 +28,6 @@ Before using the bot, please ensure you're familiar with our [Privacy Policy](ht
 
 Thank you for choosing the Halo Infinite 8s Series Bot. Enjoy your games and may the best Spartans win!
 
+If you want to add me to your discord server [Click Here](https://bit.ly/3JIGL8n)
+
 For any questions, feedback, or support, please reach out on Discord (idefend) or raise an issue on this repository.
